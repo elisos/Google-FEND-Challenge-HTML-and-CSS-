@@ -1,0 +1,80 @@
+.card {
+    width: 360px;
+    border: 3px solid #2c2c2c;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #374a52;
+    background-image: linear-gradient(rgba(65, 65, 65, 0.3), rgba(65, 65, 65, 0.3)), url(https://s18.postimg.org/6bvsjq761/markus-spiske-104895.jpg);
+    box-shadow: 6px 6px 14px 0px rgba(148,148,148,1);
+}
+
+.border {
+    border: 1px solid #2c2c2c;
+    border-radius: 5px;
+}
+
+h1 {
+    display: inline-block;
+    color: #330313;
+    background-color: #DAB688; 
+    border-radius: 5px;
+    width: 300px;
+    padding: 5px 0;
+ }
+
+img {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #2c2c2c;
+    border-radius: 5px;
+    }
+
+.background {
+    background-color: #bcc2e5;
+}
+
+
+.interesting {
+    font-style: italic;
+    font-size: 90%;
+    font-weight: 600;
+    display: inline-block;
+    width: 290px;
+    padding: 5px 5px;  
+    margin-bottom: 10px;
+    color: #330313;
+}
+
+.list {
+    display: inline-block;
+    width: 290px;
+    list-style: none;
+    text-align: left;
+    padding: 5px 5px;
+    font-size: 80%;
+    margin: 0;
+}
+
+.list li {
+    margin-top: 4px;
+}
+
+.list li:first-child {
+    margin-top: 0;
+}
+.list span {
+    font-weight: bold;
+    color: #582838;
+}
+
+.final {
+    display: inline-block;
+    width: 290px;
+    font-size: 80%;
+    font-weight: 600;
+    padding: 5px 5px;
+    margin: 10px 0 20px 0;
+    line-height: 1.4;
+    color: #330313;
+}
