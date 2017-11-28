@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <link href="styles.css" rel="stylesheet">
+	<title>Animal Trading Cards</title>
+    
+</head>
+<body>
+	<div class="card">
+		<h1 class=border>Hedgehog</h1>
+		<img src="https://s8.postimg.org/u50cgnqwl/george-kendall-437242.jpg" alt="Hedgehog">
+		<div class="text">
+			<p class="interesting background border">Hedgehog spines are actually hollow hairs made stiff with keratin.</p>
+			<ul class="list background border">
+				<li><span>Diet</span>: Hedgehogs are omnivorous.</li>
+                <li><span>Habits</span>: They are mostly nocturnal, and all wild hedgehogs can hibernate.</li>
+                <li><span>Lifespan</span>: In the wild, larger species live 4-7 years, and smaller ones live 2-4 years.</li>
+                <li><span>Communication</span>: Hedgehogs communicate through grunts, sniffles, and squeals. </li>
+			 </ul>
+            <p class="final background border">The Hedgehog is a spiny mammal, native to parts of Europe, Asia, and Africa. Their main defense mechanism is rolling into a tight ball, and they have some natural immunity to snake venom.</p>
+		</div>
+	</div>
+ </body>
+</html>
